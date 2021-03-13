@@ -1,0 +1,10 @@
+html{
+  box-sizing: border-border-box;
+  background-color: #f2fled;
+  font-family: Georgia serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
